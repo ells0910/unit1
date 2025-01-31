@@ -10,15 +10,22 @@
 //fill(); //r,g,b: 0-255
 //stroke(); //r,g,b
 //size() //width, height
+//strokeWeight(); //thickness in pixels
+//background(); //r,g,b
 
+//size(800,800);
+//background(125,153,206);
 
-size(800,800);
 
 //triangle
-fill(157,146,183);
-triangle(0,400,400,0,800,400);
+//fill(157,146,183);
+//stroke(96,78,103);
+//strokeWeight(2.5);
+//triangle(0,400,400,0,800,400);
+
 
 //circle
-fill(146,162,183);
-//stroke(); //r,g,b
-ellipse(400,400,150,150);
+//fill(146,162,183);
+//stroke(78,78,103);
+//strokeWeight(3);
+//ellipse(400,400,150,150);
